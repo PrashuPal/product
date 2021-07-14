@@ -187,6 +187,7 @@ body{
 
 @media screen and (max-width: 1024px){
 	.maindiv{
+                position: relative;
 		width: 85%;
 		height: 200px;
                 top: 500px;
