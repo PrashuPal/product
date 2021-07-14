@@ -188,12 +188,13 @@ body{
 @media screen and (max-width: 1024px){
 	.maindiv{
 		width: 90%;
-		height: 600px;
+		height: 800px;
 		border: 12px rgba(255,255,240,1) solid;
 	}
 	.container{
 		display: flex;
 		flex-direction: row;
+		align-items: flex-end;
 	}
 	.btn-1{
 		height: 60px;
