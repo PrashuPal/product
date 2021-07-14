@@ -189,6 +189,7 @@ body{
 	.maindiv{
 		width: 85%;
 		height: 200px;
+                top: 60%;
 		border: 12px rgba(255,255,240,1) solid;
 	}
 	.container{
