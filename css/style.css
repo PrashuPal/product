@@ -187,8 +187,8 @@ body{
 
 @media screen and (max-width: 1024px){
 	.maindiv{
-		width: 90%;
-		height: 800px;
+		width: 85%;
+		height: 400px;
 		border: 12px rgba(255,255,240,1) solid;
 	}
 	.container{
